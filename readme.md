@@ -2,6 +2,11 @@
 ## Description
 PDF to Audiobook transformer
 
+### Options for Conversion:
+* Text File => PDF
+* Text File => Audiobook
+* PDF File => Audiobook
+
 ## Installation
 In Progress
 
